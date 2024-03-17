@@ -29,7 +29,7 @@
 | 高效数据存储   | MySQL数据库      | 使用MySQL数据库保证了项目在面对高并发场景时的数据存储与检索效率。 |
 | 动态数据可视化 | Power BI         | 利用Power BI工具，设计了一系列动态仪表板和报表，直观展示上海高铁票务的价格趋势、班次分布等关键指标。 |
 
-
+[![Stargazers repo roster for @Zhu-Shatong/RailTracker](https://reporoster.com/stars/dark/Zhu-Shatong/RailTracker)](https://github.com/Zhu-Shatong/RailTracker/stargazers)
 
 🌟 **欢迎 Star 我们的项目！** 成为 RailTracker 后续开发的一员，共同推进高铁票务数据分析的边界。
 
