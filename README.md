@@ -35,6 +35,11 @@
 
 您的支持是我们不断前进的动力！
 
+✨ 鸣谢
+<a href="https://github.com/Zhu-Shatong/RailTracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Zhu-Shatong/RailTracker" />
+</a>
+
 
 
 ![e576c83245b49f44fad04303be8cb386-0](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/e576c83245b49f44fad04303be8cb386-0.jpg)
