@@ -31,6 +31,8 @@
 
 [![Stargazers repo roster for @Zhu-Shatong/RailTracker](https://reporoster.com/stars/dark/Zhu-Shatong/RailTracker)](https://github.com/Zhu-Shatong/RailTracker/stargazers)
 
+[![Forkers repo roster for @Zhu-Shatong/RailTracker](https://reporoster.com/forks/dark/Zhu-Shatong/RailTracker)](https://github.com/Zhu-Shatong/RailTracker/network/members)
+
 🌟 **欢迎 Star 我们的项目！** 成为 RailTracker 后续开发的一员，共同推进高铁票务数据分析的边界。
 
 您的支持是我们不断前进的动力！
